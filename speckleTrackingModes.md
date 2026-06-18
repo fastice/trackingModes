@@ -1,3 +1,5 @@
+Modifications and critical values flagged with `X` (where X has the code shading).
+
 References for changes: [Doc](https://docs.google.com/document/d/1NIgrXiXkr6X4nU28Ke79xIbugi23mwtm4PZyPvb8Dpo/edit?usp=share_link), [Drive file](https://drive.google.com/file/d/1NC3Yq9tmmI_y2iyhs50FrAB-_0oEELDs/view?usp=share_link)
 
 ## ice_sheets
